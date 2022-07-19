@@ -85,5 +85,8 @@
             "@composer test --working-dir=tests/laminas-runner",
             "@composer test --working-dir=tests/mezzio-runner"
         ]
+    },
+    "replace": {
+        "slm/queue-doctrine": "self.version"
     }
 }
