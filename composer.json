@@ -1,5 +1,5 @@
 {
-    "name": "slm/queue-doctrine",
+    "name": "rnd-cosoft/queue-doctrine",
     "description": "Laminas Framework module that integrates Doctrine as queuing system",
     "license": "BSD-3-Clause",
     "type": "library",
