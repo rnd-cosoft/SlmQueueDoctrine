@@ -47,9 +47,6 @@
         "phpunit/phpunit": "^9.3",
         "squizlabs/php_codesniffer": "^3.6.2"
     },
-    "conflict": {
-        "doctrine/cache": ">=2.0"
-    },
     "suggest": {
         "doctrine/doctrine-orm-module": "If you use Doctrine in combination with Laminas",
         "roave/psr-container-doctrine": "Configures Doctrine services automatically."
