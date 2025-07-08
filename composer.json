@@ -89,5 +89,8 @@
         "allow-plugins": {
             "composer/package-versions-deprecated": true
         }
+    },
+    "replace": {
+        "slm/queue-doctrine": "*"
     }
 }
